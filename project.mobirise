@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rajnandini.in",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -331,7 +331,7 @@
         }
       ]
     },
-    "page2.html": {
+    "en.html": {
       "settings": {
         "title": "en",
         "meta_descr": "",
