@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rajnandini.in",
-    "currentPage": "index.html",
+    "currentPage": "en.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -102,7 +102,7 @@
     "sitemapSwitcher": false,
     "siteUrl": false,
     "sitemapSwitcherAuto": "on",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/android-chrome-192x192-128x128.png",
     "noImageResize": false,
     "cookiesAlert": false,
     "gdpr": false
@@ -111,8 +111,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Rajnandini",
+        "meta_descr": "Rajni & Anand will start a new day, a new life together on 26th January, 2020",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -387,8 +387,8 @@
     },
     "en.html": {
       "settings": {
-        "title": "en",
-        "meta_descr": "",
+        "title": "Rajnandini",
+        "meta_descr": "Rajni & Anand will start a new day, a new life together on 26th January, 2020",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
