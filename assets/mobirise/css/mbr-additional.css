@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Pacifico:400&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Courgette:400&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower:400&display=swap);
 
@@ -17,7 +17,7 @@ body {
   font-size: 6.4rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Pacifico', handwriting;
   font-size: 4rem;
   font-display: swap;
 }
@@ -712,8 +712,8 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rJ8PgfANKD {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 30px;
+  padding-bottom: 105px;
   background-image: url("../../../assets/images/m5-1920x1200.jpg");
 }
 .cid-rJ8PgfANKD .mbr-section-subtitle {
@@ -765,7 +765,7 @@ section.lazy-placeholder:after {
   color: #7f1933;
 }
 .cid-rJ8PgfANKD .countdown-cont {
-  background: linear-gradient(45deg, #f7ed4a, #c4bc3b);
+  background: linear-gradient(45deg, #f4eb64, #f4ed7d);
   max-width: 700px;
   border-radius: 3px;
   margin: 0 auto;
@@ -940,10 +940,11 @@ section.lazy-placeholder:after {
 }
 .cid-rJiXotcdb5 .mbr-timeline-text {
   color: #073b4c;
+  text-align: left;
 }
 .cid-rMk7XPHj60 {
   padding-top: 30px;
-  padding-bottom: 90px;
+  padding-bottom: 105px;
   background-image: url("../../../assets/images/m5-1920x1200.jpg");
 }
 .cid-rMk7XPHj60 .mbr-section-subtitle {
@@ -1173,4 +1174,5 @@ section.lazy-placeholder:after {
 }
 .cid-rMk7XR8SXA .mbr-timeline-text {
   color: #073b4c;
+  text-align: left;
 }
